@@ -1,0 +1,10 @@
+- 👋 Hi, I’m Elijah,
+- 
+- 👀 I’m interested in front-end web development, and learning programming in general!
+- 
+- 🌱 I’m currently learning front and back-end web development. Web art and design is cool stuff. 
+- 
+- 💞️ I’m looking to collaborate in projects concerning web apps, especially focused on design and usability.
+- 
+- 📫 How to reach me: 
+-   elijahgillit.webdev@gmail.com 
