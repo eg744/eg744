@@ -2,7 +2,7 @@
 - 
 - 👀 I’m interested in front-end web development, and learning programming in general!
 - 
-- 🌱 I’m currently learning front and back-end web development. Web art and design is cool stuff. 
+- 🌱 I’m currently learning front and back-end web development. Web art and design is cool stuff. I love animals and I'm making a site to help people adopt those in need!
 - 
 - 💞️ I’m looking to collaborate in projects concerning web apps, especially focused on design and usability.
 - 
