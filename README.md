@@ -2,9 +2,10 @@
 - 
 - 👀 I’m interested in front-end web development, and learning programming in general!
 - 
-- 🌱 I’m currently learning front and back-end web development. Web art and design is cool stuff. I love animals and I'm making a site to help people adopt those in need!
+- 🌱 I’m currently learning front and back-end web development. Web art and design is fun. I love animals and I'm making a site to help people adopt those in need!
 - 
-- 💞️ I’m looking to collaborate in projects concerning web apps, especially focused on design and usability.
+- 💞️ I’m looking to collaborate in projects concerning websites and web apps.
 - 
 - 📫 How to reach me: 
 -   elijahgillit.webdev@gmail.com 
+-   https://www.linkedin.com/in/elijah-gillit-0b91b6245/
