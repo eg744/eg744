@@ -9,4 +9,4 @@
 - 📫 How to reach me: 
 -   elijahgillit.webdev@gmail.com 
 -   https://www.linkedin.com/in/elijah-gillit-0b91b6245/
--   [elijahgillit.com](http://elijahgillit.com/) (WIP)
+-   [elijahgillit.com](http://elijahgillit.com/)
