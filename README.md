@@ -1,6 +1,4 @@
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eg744&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
- 
-# 👋 Hi, I’m Elijah,
+ # 👋 Hi, I’m Elijah,
 
 ## 👀 I’m interested in front-end web development, and gaining a deeper understanding of software development in general! I love computers and I'm an avid learner.
 
@@ -12,3 +10,5 @@
 -   elijahgillit.webdev@gmail.com 
 -   [LinkedIn](https://www.linkedin.com/in/elijah-gillit-0b91b6245/)
 -   [ElijahGillit.com](http://elijahgillit.com/)
+
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eg744&&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
