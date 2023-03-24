@@ -11,4 +11,5 @@
 -   elijahgillit.webdev@gmail.com 
 -   [LinkedIn](https://www.linkedin.com/in/elijah-gillit-0b91b6245/)
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eg744&&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!--  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eg744&&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+<img align="middle" width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eg744&&layout=compact)](https://github.com/anuraghazra/github-readme-stats"/>
